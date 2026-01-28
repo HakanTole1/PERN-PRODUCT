@@ -100,7 +100,15 @@ npm run dev
 
 ---
 
+## 🎓 Learning Credits & Acknowledgements
+
+> [!TIP]
+> **Reference:** This project was developed with a focus on **codesistency**.
+
+A huge thanks to the **CODESİSTENCY** YouTube channel. They played a key role in helping me build this project. 🚀
+
+---
+
 ## 📄 License & Credits
 This project is for experimental and educational purposes.
 
-Reference: This project was developed with a focus on codesistency.
