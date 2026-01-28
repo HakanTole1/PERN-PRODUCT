@@ -11,7 +11,6 @@ The server handles full CRUD operations and connects to a PostgreSQL database ho
 | :---: | :---: | :---: |
 | <img src="frontend/src/images/HomePage.png" width="300" alt="Home Page"> | <img src="frontend/src/images/AddNewProductPage.png" width="300" alt="Add Product"> | <img src="frontend/src/images/ProductEditPage.png" width="300" alt="Edit Product"> |
 
----
 
 ---
 
@@ -93,10 +92,12 @@ To start the frontend development server, run the following commands:
 ```bash
 # Navigate to the frontend directory
 cd ../frontend
-
+```
 # Install dependencies and start the app
+```bash
 npm install
 npm run dev
+```
 
 ---
 
